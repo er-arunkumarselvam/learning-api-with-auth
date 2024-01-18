@@ -1,11 +1,11 @@
-# Your Application Name (or) Title
+# Learning API with Auth
 
-Write your application description in datails
+Get the user details from dummy json website using API calling method.
 
 __Live:__
 
 ### App Screenshots
-
+![Alt text](./screenshot/image.png)
 
 
 #### License: MIT
